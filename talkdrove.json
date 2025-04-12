@@ -83,17 +83,17 @@
     },
     "HEROKU_API_KEY": {
       "description": "Insert your Heroku API key (required)",
-      "value": "",
+      "value": "HRKU-d8f0a222-4ac9-4c24-8672-f13f84031adc",
       "required": true
     },
     "HEROKU_APP_NAME": {
       "description": "Insert your Heroku app name (required)",
-      "value": "",
+      "value": "desperende",
       "required": true
     },
     "SESSION_ID": {
       "description": "Enter your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "LUCKY-MD;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieUNGUmVVUlhKdVhFM2toR3FmVGJrTEszLzBuSjdtVi9hU3UxWEJpRFZtUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiTU9NS1lCbEkraEg1TWJ6QVVNL1pUdXA0ZEJLVUdDdVhJVWd1elBzcUpBQT0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXSmluYlFpUXNFYzlsaGFDbW9vUWNCZWpSc2dTNEZzTDVHVFFYaEJ2MzNJPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJUZUVYSjBPM2Joa1FQNkVJeUFmYXQ3eW5wM0N1ZGxWblIzc2UwUXp5dmdRPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkdDNS9UNEpQa1BpK0QxVURKN0JQTXVzVXhkWG9TNTdFMWlMWGdvN1dLVzg9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkhkNTNmckdNQ0I3eTZhSHRtdVpUQWREZ0JmNVozeXB3U1B4SzA1dldGekU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOEcwYTlIY09xQjNMZnQya1B0ZEU2N21GUGlIMW0yb1NPU2syejlkOXBVND0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSGdudkNjenFKd0FKMmo2NFdIQ3duL2tkcWMyazNjQzBpdDVFZjdpdTJSOD0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVwOTNncFJNd1hHeUpnWjlRamM0clNlaWRMblJWQ08vYlFIREFxRXhza1JpR2QzRG1McEUxK1RUTmgwdDJkMUdYN1djU3pEWk1ETHBtQU4vZHdveGhRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjgsImFkdlNlY3JldEtleSI6IkRaQ25vbjBpY3Fnd3BCMmhzTlllK2NWaWxJU1R4eTNrNENacGRkZVR6bE09IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbXSwibmV4dFByZUtleUlkIjozMSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjMxLCJhY2NvdW50U3luY0NvdW50ZXIiOjAsImFjY291bnRTZXR0aW5ncyI6eyJ1bmFyY2hpdmVDaGF0cyI6ZmFsc2V9LCJkZXZpY2VJZCI6IkVuN29DYXY1UkFXb0R4b19wVFVPRHciLCJwaG9uZUlkIjoiMjYyMmE2MDQtNmQ3MC00Y2Q4LTg2N2EtZjFhYTk2ODc1YTk2IiwiaWRlbnRpdHlJZCI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6Ii9tUlg0WksvVTY4S25jVFdvNVpPTUZOQ3dWaz0ifSwicmVnaXN0ZXJlZCI6dHJ1ZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJ6ZUhxUjE0YUNJOTQyeGlBTnpUU1A5ekQzcHc9In0sInJlZ2lzdHJhdGlvbiI6e30sInBhaXJpbmdDb2RlIjoiM1dENFJEUTQiLCJtZSI6eyJpZCI6IjI1NDc5NzY5NTgzMjozMkBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJkZXNwZXJlbmRlIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNMbXUwNEFGRVBuVTZyOEdHQUlnQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJyV2tWazFUbzdzUEt3cVhxdFU2dk9reU9pTXd1d3VOeTZVZEJvWkJQazJ3PSIsImFjY291bnRTaWduYXR1cmUiOiJPOGtmTjBuQXN1QllpcnlKTktJNU1QazQvVDVoSlhibWNDeW9FYTUwWk1xZmc3UGJ2RjNaQnNRYWhIS0VzeWhndjhSYmJZcWFmOGdmMFl0bS91OHJCQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiQmxFRFVTOWNHenc0eTVuTU1QT2dJTDdCQVZ1aWlDYmFsL0VwSFVDbnJqdGZlYmRHYVlpLzQ1SGYyMEMvTDlvWHhkUG5nZnhnNUQ5Si91dXpSZkNzaUE9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNTQ3OTc2OTU4MzI6MzJAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCYTFwRlpOVTZPN0R5c0tsNnJWT3J6cE1qb2pNTHNMamN1bEhRYUdRVDVOcyJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0NDQ4MDkwNCwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFHVTkifQ==",
       "required": true
     },
     "OWNER_NAME": {
@@ -112,8 +112,8 @@
       "required": false  
     },
     "NUMERO_OWNER": {
-      "description": "Your phone number (exclude '+' and area code, e.g., '255752593977')",
-      "value": "255752593977",
+      "description": "Your phone number (exclude '+' and area code, e.g., '254797695832')",
+      "value": "254797695832",
       "required": false
     },
     "WARN_COUNT": {
